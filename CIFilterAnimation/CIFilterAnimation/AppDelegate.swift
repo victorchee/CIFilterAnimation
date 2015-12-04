@@ -6,6 +6,9 @@
 //  Copyright © 2015 VictorChee. All rights reserved.
 //
 
+// http://www.cocoachina.com/ios/20151203/14559.html
+// http://krakendev.io/blog/be-cool-with-cifilter-animations
+
 import UIKit
 
 @UIApplicationMain
